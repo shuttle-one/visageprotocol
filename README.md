@@ -1,2 +1,3 @@
 # visageprotocol
-KYC/AML/CFT blockchain identity for regulatory compliant virtual asset transactions
+
+Visage Protocol combines Computer Vision and Data Analysis to publish risk managed credit scores onto the blockchain. 
